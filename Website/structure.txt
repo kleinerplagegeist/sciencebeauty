@@ -1,0 +1,15 @@
+to dos 
+1. build project 
+    - folder structure  x
+    - connecting filesx x
+2. Nav bar
+    - 2 links and name
+3. portfolio item grid 
+    - images 
+    - titles 
+    - descriptions
+    - animations --> java script
+4. about page
+    - image 
+    - split column layout
+    - content
